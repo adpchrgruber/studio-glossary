@@ -9,7 +9,7 @@ No build step, no dependencies, no backend. Everything lives in `index.html`.
 1. Create a new repository on GitHub (e.g. `studio-glossary`).
 2. Upload `index.html` and this `README.md` to the repository root.
 3. In the repository: **Settings → Pages → Build and deployment → Source: "Deploy from a branch"**, branch `main`, folder `/ (root)`. Save.
-4. After a minute the site is live at `https://<username>.github.io/studio-glossary/`.
+4. After a minute the site is live at `https://adpchrgruber.github.io/studio-glossary/`.
 
 A custom domain (e.g. `glossary.yourstudio.com`) can be added later under the same Pages settings.
 
